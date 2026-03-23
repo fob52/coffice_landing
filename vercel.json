@@ -1,17 +1,4 @@
 {
-  "version": 2,
-  "builds": [
-    { "src": "*.html", "use": "@vercel/static" },
-    { "src": "*.png", "use": "@vercel/static" },
-    { "src": "*.mp4", "use": "@vercel/static" }
-  ],
-  "routes": [
-    { "src": "/favicon.png", "dest": "/favicon.png" },
-    { "src": "/logo.png", "dest": "/logo.png" },
-    { "src": "/screen1.png", "dest": "/screen1.png" },
-    { "src": "/screen2.png", "dest": "/screen2.png" },
-    { "src": "/screen3.png", "dest": "/screen3.png" },
-    { "src": "/promo.mp4", "dest": "/promo.mp4" },
-    { "src": "/(.*)", "dest": "/index.html" }
-  ]
+  "cleanUrls": true,
+  "trailingSlash": false
 }

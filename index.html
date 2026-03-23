@@ -550,6 +550,21 @@
     to   { opacity: 1; transform: translateY(0) rotate(3deg); }
   }
 
+  /* ── PROMO VIDEO ── */
+  .promo-video {
+    background: var(--espresso);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px 24px;
+  }
+  .promo-video video {
+    width: 100%;
+    max-width: 800px;
+    border-radius: 20px;
+    box-shadow: 0 24px 80px rgba(0,0,0,0.5);
+  }
+
   /* ── RESPONSIVE ── */
   @media (max-width: 600px) {
     nav { padding: 16px 20px; }
@@ -562,7 +577,6 @@
     .stat-num { font-size: 2.2rem; }
     .feature-item { padding: 28px 24px; }
   }
-
   @media (max-width: 400px) {
     .phone-card:nth-child(3) { display: none; }
     .phone-card:nth-child(1) { width: 150px; }
@@ -571,7 +585,7 @@
 </style>
 </head>
 <body>
-
+ 
 <!-- NAV -->
 <nav>
   <div class="nav-logo"><img src="logo.png" alt="Coffice" style="height:32px;"></div>
@@ -681,6 +695,13 @@
       <p class="stat-label">Always free to use</p>
     </div>
   </div>
+</section>
+
+ <!-- PROMO VIDEO -->
+<section class="promo-video">
+  <video autoplay muted loop playsinline>
+    <source src="promo.MP4" type="video/mp4">
+  </video>
 </section>
 
 <!-- COMMUNITY QUOTE -->

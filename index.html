@@ -558,12 +558,14 @@
     align-items: center;
     padding: 60px 24px;
   }
-  .promo-video video {
-    width: 100%;
-    max-width: 800px;
-    border-radius: 20px;
-    box-shadow: 0 24px 80px rgba(0,0,0,0.5);
-  }
+.promo-video video {
+  width: 100%;
+  max-width: 360px;
+  border-radius: 20px;
+  box-shadow: 0 24px 80px rgba(0,0,0,0.5);
+  aspect-ratio: 9/16;
+  object-fit: cover;
+}
 
   /* ── RESPONSIVE ── */
   @media (max-width: 600px) {

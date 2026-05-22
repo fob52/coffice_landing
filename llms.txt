@@ -1,0 +1,59 @@
+# Coffice
+
+> Coffice is a free, community-powered iOS and web app for finding work-friendly cafés and coworking spaces in New York City.
+
+Coffice maps 265+ cafés across 23 NYC neighborhoods, giving remote workers, freelancers, and students the insider information they actually need before they sit down — Wi-Fi passwords, outlet availability, noise levels, and honest community reviews. Unlike Google Maps or Yelp, Coffice is built specifically for the working-from-café experience. Every piece of data is contributed and verified by real remote workers, making it the only map built by the community, for the community.
+
+## Product
+
+- Free to use, always
+- Available on iOS (App Store ID: 6760617696) at https://apps.apple.com/us/app/cofficecafes/id6760617696
+- Available on web at https://app.cofficecafes.com
+- Android coming soon
+- Currently covers New York City; expanding internationally
+- Tagline: Map. Sip. Work.
+
+## Features
+
+- Interactive map of work-friendly cafés and coworking spaces filtered by NYC neighborhood
+- Crowd-sourced Wi-Fi passwords and outlet availability, contributed by real users
+- Noise level information and honest community tips
+- Save favourite spots to a personal list for one-tap access
+- Share hidden gems: pin a new café, drop the Wi-Fi password, share with the community
+- Browse by neighborhood across 23 areas in New York City
+- Community reviews and photos contributed by remote workers
+- Always up to date — spots are verified and refreshed by the community
+
+## Who It's For
+
+- Remote workers and digital nomads looking for a reliable workspace outside the home
+- Freelancers who need Wi-Fi, outlets, and a good coffee
+- Students who study from cafés
+- Anyone who thinks better with a coffee in hand and needs to know a spot is work-friendly before they make the trip
+
+## Key Facts
+
+- 265+ cafés mapped
+- 23 NYC neighborhoods covered
+- 100% community-powered data
+- Free, no subscription, no paywall
+- Founded by Francesca O'Brien
+- Launched on iOS in 2025
+
+## Neighborhoods Covered
+
+New York City, including Manhattan, Brooklyn, and surrounding boroughs across 23 distinct neighborhoods.
+
+## Company
+
+- Product name: Coffice (also known as CofficeCafes)
+- Founder: Francesca O'Brien
+- Contact: hello@cofficecafes.com
+- Headquarters: New York City, USA
+
+## Links
+
+- Homepage: https://cofficecafes.com
+- Web app: https://app.cofficecafes.com
+- iOS App Store: https://apps.apple.com/us/app/cofficecafes/id6760617696
+- Privacy Policy: https://www.notion.so/francescaobrien/CofficeCafes-Privacy-Policy-3248dcb25bf9803089cfc20f4a4e894e
